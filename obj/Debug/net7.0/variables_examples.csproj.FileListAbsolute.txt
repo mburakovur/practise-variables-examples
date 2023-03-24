@@ -1,0 +1,15 @@
+C:\Users\domain\Desktop\vscode\practise\variables_examples\bin\Debug\net7.0\variables_examples.exe
+C:\Users\domain\Desktop\vscode\practise\variables_examples\bin\Debug\net7.0\variables_examples.deps.json
+C:\Users\domain\Desktop\vscode\practise\variables_examples\bin\Debug\net7.0\variables_examples.runtimeconfig.json
+C:\Users\domain\Desktop\vscode\practise\variables_examples\bin\Debug\net7.0\variables_examples.dll
+C:\Users\domain\Desktop\vscode\practise\variables_examples\bin\Debug\net7.0\variables_examples.pdb
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.csproj.AssemblyReference.cache
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.AssemblyInfoInputs.cache
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.AssemblyInfo.cs
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.csproj.CoreCompileInputs.cache
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.dll
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\refint\variables_examples.dll
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.pdb
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\variables_examples.genruntimeconfig.cache
+C:\Users\domain\Desktop\vscode\practise\variables_examples\obj\Debug\net7.0\ref\variables_examples.dll
